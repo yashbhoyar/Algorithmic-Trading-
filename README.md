@@ -23,6 +23,6 @@ For support and resistance :
   3.Fibbonaci pivot point levels
   4.Gann degrees
   
- The strategies are made by combination of indicators, combination of indicator and candlestick patterns and target ,entry,stoploss are determined on the basic of levels
+ The strategies are made by combination of indicators, combination of indicator and candlestick patterns and target ,entry,stoploss are determined on the basis of levels
  
  Disclaimer:The strategies used are based on my own personal trading experience , Follow this strategies on your own risk!!!!!!
