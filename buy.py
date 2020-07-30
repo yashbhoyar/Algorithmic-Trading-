@@ -731,7 +731,7 @@ for stock in stocklist:
             break
 
     #checking all startegies:
-    i="Grasim"
+    
     if(sma_5_20_crossover(rows-2) and Volume_check(rows-1)):
         stock=stock.append({"Symbol":i,"Strategy":"sma_5_20_crossover","Entry":entry,"StopLoss":stop_loss,"Target1":target1,"Target2":target2,"Target3":target3},ignore_index=True)
     if(sma_10_30_crossover(rows-2) and Volume_check(rows-1)):
