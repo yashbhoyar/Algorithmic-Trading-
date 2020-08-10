@@ -1,6 +1,5 @@
 from fyers_api import accessToken
 from fyers_api import fyersModel
-import sys
 import webbrowser
 
 
@@ -9,8 +8,9 @@ def generate_session(app_id,app_secret):
     response=app_session.auth()
 
     auth_code=response["data"]["authorization_code"]
-    app_session.set_token(auth_code)
 
+    app_session.set_token(auth_code)
+	
     generateTokenUrl=app_session.generate_token()
     webbrowser.open(generateTokenUrl,new=1)
 
