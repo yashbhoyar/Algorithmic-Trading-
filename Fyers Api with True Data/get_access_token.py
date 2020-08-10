@@ -1,11 +1,16 @@
 from fyers_api import accessToken
 from fyers_api import fyersModel
 import webbrowser
-
+import sys
 
 def generate_session(app_id,app_secret):
     app_session=accessToken.SessionModel(app_id,app_secret)
     response=app_session.auth()
+   
+    if response["code"] != 200:
+		print response
+		sys.exit()
+
 
     auth_code=response["data"]["authorization_code"]
 
