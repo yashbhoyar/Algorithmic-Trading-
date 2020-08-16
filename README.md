@@ -18,10 +18,11 @@ Also some candlestick patterns are added:
   3.triple candlestick pattern
   
 For support and resistance :
-  1.Gan sqaure of nine which gives support and resistance on the basis of ltp
-  2.Standard pivot point levels
-  3.Fibbonaci pivot point levels
-  4.Gann degrees
+  1.Gan sqaure of nine which gives support and resistance on the basis of ltp.
+  2.Standard pivot point levels.
+  3.Fibbonaci pivot point levels.
+  4.Gann levels based on previous sessions close.
+  5.Gann Static levels.
   
  The strategies are made by combination of indicators, combination of indicator and candlestick patterns and target ,entry,stoploss are determined on the basis of levels
  
