@@ -19,15 +19,16 @@ Nifty50=['ADANIPORTS', 'ASIANPAINT', 'AXISBANK', 'BAJAJ-AUTO', 'BAJFINANCE', 'BA
             'TCS', 'TATAMOTORS', 'TATASTEEL', 'TECHM', 'TITAN', 'UPL', 'ULTRACEMCO', 'WIPRO', 'ZEEL']
 
 for i in Nifty50:
-    data =  td_app.get_historic_data(i, duration='3 D', bar_size='1 min')   #this will give 1 min data for previous 3 days until the current time 
+    data =  td_app.get_historic_data(i, duration='3 D', bar_size='15 min')   #this will give 1 min data for previous 3 days until the current time 
     data=pd.DataFrame(data)
     x=i+".csv"
     data.columns=["Time","Open","High","Low","Close","Volume","oi"]
     data=data[["Time","Open","High","Low","Close","Volume"]]
     data["Time"]=pd.to_datetime(data["Time"],format="%Y-%m-%d %H-%M-%S")        
     data.set_index("Time",inplace=True)
-    data=data.resample("10min").agg({"Open":"first","High":max,"Low":min,"Close":"last","Volume":sum})  #converting into 10min data,anytime frame can be used
+    data=data.resample("15min").agg({"Open":"first","High":max,"Low":min,"Close":"last","Volume":sum})  #converting into 10min data,anytime frame can be used
     data.reset_index(inplace=True)
-    rows,columns=data.shape
+    data.dropna(axis="index",how="any",inplace=True)
+    
 
     data.to_csv(x)      #saving data to csv
