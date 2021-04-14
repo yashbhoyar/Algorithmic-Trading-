@@ -1,0 +1,101 @@
+Symbol,Company_Name,Broad_Index,Sectoral_Index,Industry
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,NIFTY50,None,SERVICES
+ASIANPAINT,Asian Paints Ltd.,NIFTY50,None,CONSUMER GOODS
+AXISBANK,Axis Bank Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+BAJAJ-AUTO,Bajaj Auto Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+BAJFINANCE,Bajaj Finance Ltd.,NIFTY50,Nifty Finance,FINANCIAL SERVICES
+BAJAJFINSV,Bajaj Finserv Ltd.,NIFTY50,Nifty Finance,FINANCIAL SERVICES
+BPCL,Bharat Petroleum Corporation Ltd.,NIFTY50,Nifty Oil and Gas,OIL & GAS
+BHARTIARTL,Bharti Airtel Ltd.,NIFTY50,None,TELECOM
+BRITANNIA,Britannia Industries Ltd.,NIFTY50,Nifty FMCG,CONSUMER GOODS
+CIPLA,Cipla Ltd.,NIFTY50,Nifty Pharma,PHARMA
+COALINDIA,Coal India Ltd.,NIFTY50,Nifty Metals,METALS
+DIVISLAB,Divi's Laboratories Ltd.,NIFTY50,Nifty Pharma,PHARMA
+DRREDDY,Dr. Reddy's Laboratories Ltd.,NIFTY50,Nifty Pharma,PHARMA
+EICHERMOT,Eicher Motors Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+GAIL,GAIL (India) Ltd.,NIFTY50,Nifty Oil and Gas,OIL & GAS
+GRASIM,Grasim Industries Ltd.,NIFTY50,None,CEMENT & CEMENT PRODUCTS
+HCLTECH,HCL Technologies Ltd.,NIFTY50,Nifty IT,IT
+HDFCBANK,HDFC Bank Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+HDFCLIFE,HDFC Life Insurance Company Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+HEROMOTOCO,Hero MotoCorp Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+HINDALCO,Hindalco Industries Ltd.,NIFTY50,Nifty Metals,METALS
+HINDUNILVR,Hindustan Unilever Ltd.,NIFTY50,Nifty FMCG,CONSUMER GOODS
+HDFC,Housing Development Finance Corporation Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+ICICIBANK,ICICI Bank Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+ITC,ITC Ltd.,NIFTY50,Nifty FMCG,CONSUMER GOODS
+IOC,Indian Oil Corporation Ltd.,NIFTY50,Nifty Oil and Gas,OIL & GAS
+INDUSINDBK,IndusInd Bank Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+INFY,Infosys Ltd.,NIFTY50,Nifty IT,IT
+JSWSTEEL,JSW Steel Ltd.,NIFTY50,Nifty Metals,METALS
+KOTAKBANK,Kotak Mahindra Bank Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+LT,Larsen & Toubro Ltd.,NIFTY50,None,CONSTRUCTION
+M&M,Mahindra & Mahindra Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+MARUTI,Maruti Suzuki India Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+NTPC,NTPC Ltd.,NIFTY50,None,POWER
+NESTLEIND,Nestle India Ltd.,NIFTY50,Nifty FMCG,CONSUMER GOODS
+ONGC,Oil & Natural Gas Corporation Ltd.,NIFTY50,Nifty Oil and Gas,OIL & GAS
+POWERGRID,Power Grid Corporation of India Ltd.,NIFTY50,None,POWER
+RELIANCE,Reliance Industries Ltd.,NIFTY50,Nifty Oil and Gas,OIL & GAS
+SBILIFE,SBI Life Insurance Company Ltd.,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+SHREECEM,Shree Cement Ltd.,NIFTY50,None,CEMENT & CEMENT PRODUCTS
+SBIN,State Bank of India,NIFTY50,Nifty Bank,FINANCIAL SERVICES
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,NIFTY50,Nifty Pharma,PHARMA
+TCS,Tata Consultancy Services Ltd.,NIFTY50,Nifty IT,IT
+TATAMOTORS,Tata Motors Ltd.,NIFTY50,Nifty Auto,AUTOMOBILE
+TATASTEEL,Tata Steel Ltd.,NIFTY50,Nifty Metals,METALS
+TECHM,Tech Mahindra Ltd.,NIFTY50,Nifty IT,IT
+TITAN,Titan Company Ltd.,NIFTY50,Nifty Consumer Durables,CONSUMER GOODS
+UPL,UPL Ltd.,NIFTY50,None,FERTILISERS & PESTICIDES
+ULTRACEMCO,UltraTech Cement Ltd.,NIFTY50,None,CEMENT & CEMENT PRODUCTS
+WIPRO,Wipro Ltd.,NIFTY50,Nifty IT,IT
+ACC,ACC Ltd.,NIFTY NEXT 50,None,CEMENT & CEMENT PRODUCTS
+ABBOTINDIA,Abbott India Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+ADANIGREEN,Adani Green Energy Ltd.,NIFTY NEXT 50,None,POWER
+ADANITRANS,Adani Transmission Ltd.,NIFTY NEXT 50,None,POWER
+ALKEM,Alkem Laboratories Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+AMBUJACEM,Ambuja Cements Ltd.,NIFTY NEXT 50,None,CEMENT & CEMENT PRODUCTS
+AUROPHARMA,Aurobindo Pharma Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+DMART,Avenue Supermarts Ltd.,NIFTY NEXT 50,None,CONSUMER GOODS
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+BANDHANBNK,Bandhan Bank Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+BANKBARODA,Bank of Baroda,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+BERGEPAINT,Berger Paints India Ltd.,NIFTY NEXT 50,None,CONSUMER GOODS
+BIOCON,Biocon Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+BOSCHLTD,Bosch Ltd.,NIFTY NEXT 50,Nifty Auto,AUTOMOBILE
+CADILAHC,Cadila Healthcare Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+COLPAL,Colgate Palmolive (India) Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+CONCOR,Container Corporation of India Ltd.,NIFTY NEXT 50,None,SERVICES
+DLF,DLF Ltd.,NIFTY NEXT 50,None,CONSTRUCTION
+DABUR,Dabur India Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+GICRE,General Insurance Corporation of India,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+GODREJCP,Godrej Consumer Products Ltd.,NIFTY NEXT 50,None,CONSUMER GOODS
+HDFCAMC,HDFC Asset Management Company Ltd.,NIFTY NEXT 50,None,FINANCIAL SERVICES
+HAVELLS,Havells India Ltd.,NIFTY NEXT 50,Nifty Consumer Durables,CONSUMER GOODS
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,NIFTY NEXT 50,Nifty Oil and Gas,OIL & GAS
+HINDZINC,Hindustan Zinc Ltd.,NIFTY NEXT 50,Nifty Metals,METALS
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+IGL,Indraprastha Gas Ltd.,NIFTY NEXT 50,Nifty Oil and Gas,OIL & GAS
+INDUSTOWER,Indus Towers Ltd.,NIFTY NEXT 50,None,TELECOM
+NAUKRI,Info Edge (India) Ltd.,NIFTY NEXT 50,Nifty IT,IT
+INDIGO,InterGlobe Aviation Ltd.,NIFTY NEXT 50,None,SERVICES
+LTI,Larsen & Toubro Infotech Ltd.,NIFTY NEXT 50,Nifty IT,IT
+LUPIN,Lupin Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+MARICO,Marico Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+MOTHERSUMI,Motherson Sumi Systems Ltd.,NIFTY NEXT 50,Nifty Auto,AUTOMOBILE
+MUTHOOTFIN,Muthoot Finance Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+NMDC,NMDC Ltd.,NIFTY NEXT 50,Nifty Metals,METALS
+OFSS,Oracle Financial Services Software Ltd.,NIFTY NEXT 50,Nifty IT,IT
+PETRONET,Petronet LNG Ltd.,NIFTY NEXT 50,Nifty Oil and Gas,OIL & GAS
+PIDILITIND,Pidilite Industries Ltd.,NIFTY NEXT 50,None,CHEMICALS
+PEL,Piramal Enterprises Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+PFC,Power Finance Corporation Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+PGHH,Procter & Gamble Hygiene & Health Care Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+PNB,Punjab National Bank,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+SBICARD,SBI Cards and Payment Services Ltd.,NIFTY NEXT 50,Nifty Bank,FINANCIAL SERVICES
+SIEMENS,Siemens Ltd.,NIFTY NEXT 50,None,INDUSTRIAL MANUFACTURING
+TATACONSUM,Tata Consumer Products Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,NIFTY NEXT 50,Nifty Pharma,PHARMA
+UBL,United Breweries Ltd.,NIFTY NEXT 50,Nifty FMCG,CONSUMER GOODS
+MCDOWELL-N,United Spirits Ltd.,NIFTY NEXT 50,None,CONSUMER GOODS
