@@ -24,6 +24,8 @@ For support and resistance :
   4.Gann levels based on previous sessions close.
   5.Gann Static levels.
   
+RSI divergence strategies.
+  
  The strategies are made by combination of indicators, combination of indicator and candlestick patterns and target ,entry,stoploss are determined on the basis of levels
  
  Disclaimer:The strategies used are based on my own personal trading experience , Follow this strategies on your own risk!!!!!!
